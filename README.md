@@ -1,2 +1,0 @@
-# ITMD-361-Lab2
-ITMD 361 Lab 2 
